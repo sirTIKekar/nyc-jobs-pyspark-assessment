@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+processed_nyc_jobs/
+final_processed_nyc_jobs/
+*.crc
+_SUCCESS
